@@ -189,3 +189,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,ocaml,linux,macos,windows,firebase
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
